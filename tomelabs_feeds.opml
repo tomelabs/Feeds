@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>TomELabs feeds</title>
+    </head>
+    <body>
+
+
+        <outline text="Forum" title="Forum">
+            <outline type="rss" text="KaiOs Reddit" title="KaiOs Reddit" xmlUrl="https://www.reddit.com/r/KaiOS/.rss" htmlUrl=""/>
+        </outline>
+
+        <outline text="Blog" title="Blog">
+            <outline type="rss" text="KaiOs Blog" title="KaiOs Blog" xmlUrl="https://www.kaiostech.com/feed/" htmlUrl=""/>
+			<outline type="rss" text="Bunnie's Blog" title="Bunnie's Blog" xmlUrl="https://www.bunniestudios.com/blog/?feed=rss2" htmlUrl=""/>
+			<outline type="rss" text="Pluralistic" title="Pluralistic" xmlUrl="https://pluralistic.net/feed/" htmlUrl=""/>
+		</outline>
+
+        <outline text="Podcast" title="Podcast">
+            <outline type="rss" text="Inside Running" title="Inside Running" xmlUrl="https://feed.podbean.com/insiderunningpodcast/feed.xml" htmlUrl=""/>
+        </outline>
+
+        <outline text="News" title="News">
+            <outline type="rss" text="Atlantic" title="The Atlantic" xmlUrl="https://www.theatlantic.com/feed/all/" htmlUrl=""/>
+        </outline>
+
+
+
+    </body>
+</opml>
